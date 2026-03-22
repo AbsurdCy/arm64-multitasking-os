@@ -2,7 +2,7 @@
 
 A bare-metal ARM64 operating system kernel implementing cooperative multitasking. Written for a Raspberry Pi 3B target and run on QEMU. Implements process creation, a ready queue, context switching, and four concurrent processes that each count prime numbers on screen.
 
-This was built as a course assignment for CSC 4100.
+This project was built following assignment instructions for CSC 4100 at Tennessee Tech University. The libos.h and libos.a libraries were provided by the course instructor, Michael Rogers.
 
 ## Setup
 
